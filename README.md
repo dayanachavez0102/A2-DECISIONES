@@ -37,3 +37,5 @@ El programa te hace preguntas y, según tus respuestas, llegarás a un final dis
 
 Instala Flet con:  
 pip install flet
+
+<img width="960" height="277" alt="quiz_animales_claro" src="https://github.com/user-attachments/assets/a15f47f5-3f36-4956-a852-8f4c03c6db9b" />
